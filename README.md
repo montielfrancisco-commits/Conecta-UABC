@@ -18,23 +18,6 @@
 
 El proyecto busca crear un espacio accesible, dinámico y cercano para que los estudiantes conozcan los desafíos de la vida universitaria, identifiquen recursos de apoyo y aprendan estrategias para afrontar el estrés académico.
 
----
-
-##  Directorio
-
-Haz clic en cualquier apartado para ir directamente a esa sección.
-
-- [Inicio](#-inicio)
-- [¿Cuál es el problema?](#-cuál-es-el-problema)
-- [Objetivo del proyecto](#-objetivo-del-proyecto)
-- [Datos y resultados de la encuesta](#-datos-y-resultados-de-la-encuesta)
-- [Recursos educativos](#-recursos-educativos)
-- [ Herramientas para organizarte](#️-herramientas-para-organizarte)
-- [ Servicios de apoyo UABC](#-servicios-de-apoyo-uabc)
-- [ Referencias bibliográficas](#-referencias-bibliográficas)
-
----
-
 ## Inicio
 
 La vida universitaria es una etapa llena de oportunidades, nuevos retos y aprendizajes. Sin embargo, también puede traer situaciones complicadas, como la acumulación de tareas, los exámenes, la falta de sueño, los problemas económicos y la dificultad para equilibrar las responsabilidades académicas con la vida personal.
